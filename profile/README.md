@@ -29,13 +29,13 @@ This offline deployment is ideal for professionals and institutions looking for 
 
 ## 🖼 Preview
 
-![Color Management Tools](https://develop3d.com/wp-content/uploads/2020/06/3ds-max-2021.1-update-main.png)  
+![Color Management Tools](https://i.ytimg.com/vi/oLU_nRvcw68/maxresdefault.jpg)  
 *Professional color management system and viewport settings*
 
-![Modifier Stack Workflow](https://www.whiteclouds.com/wp-content/uploads/2021/09/3D_Studio_Max_1.jpg)  
+![Modifier Stack Workflow](https://i.all3dp.com/wp-content/uploads/2020/12/08171810/3ds-max-is-the-tool-of-choice-for-many-autodesk-201202.jpg)  
 *Layered modifier stack workflow with live object previews*
 
-![Scene Rendering Setup](https://miro.medium.com/v2/resize:fit:1400/1*h0KekcQhUsOqXMBYmVgq2Q.jpeg)  
+![Scene Rendering Setup](https://www.cgchannel.com/wp-content/uploads/2013/05/130516_ORBX_3dsMaxMac.jpg)  
 *Real-time render setup with environment, lighting, and camera configuration*
 
 ---
